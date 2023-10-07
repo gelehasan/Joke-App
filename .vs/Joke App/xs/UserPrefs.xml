@@ -1,4 +1,31 @@
 ﻿<Properties StartupConfiguration="{9A14EBBF-C67B-406F-B0C1-764CB0A90DD9}|https">
-  <MonoDevelop.Ide.ItemProperties.Joke_220App FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Joke App/Program.cs">
+    <Files>
+      <File FileName="Joke App/Models/Joke.cs" Line="10" Column="1" />
+      <File FileName="Joke App/appsettings.json" Line="3" Column="72" />
+      <File FileName="Joke App/Program.cs" Line="15" Column="1" />
+      <File FileName="Joke App/appsettings.Development.json" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Joke App" expanded="True" selected="True">
+            <Node name="Joke App" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Joke_220App PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
 </Properties>
