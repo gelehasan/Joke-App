@@ -1,0 +1,79 @@
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/appsettings.Development.json
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/appsettings.json
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App.staticwebassets.runtime.json
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/app.db
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App.deps.json
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App.runtimeconfig.json
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App.pdb
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Humanizer.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/System.CodeDom.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.csproj.AssemblyReference.cache
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.AssemblyInfoInputs.cache
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.AssemblyInfo.cs
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.csproj.CoreCompileInputs.cache
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.MvcApplicationPartsAssemblyInfo.cs
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.MvcApplicationPartsAssemblyInfo.cache
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.RazorAssemblyInfo.cache
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.RazorAssemblyInfo.cs
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/staticwebassets/msbuild.Joke App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/staticwebassets/msbuild.build.Joke App.props
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Joke App.props
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Joke App.props
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/staticwebassets.build.json
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/staticwebassets.development.json
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/scopedcss/bundle/Joke App.styles.css
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/scopedcss/projectbundle/Joke App.bundle.scp.css
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.csproj.CopyComplete
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/refint/Joke App.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.pdb
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.genruntimeconfig.cache
+/Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/ref/Joke App.dll
