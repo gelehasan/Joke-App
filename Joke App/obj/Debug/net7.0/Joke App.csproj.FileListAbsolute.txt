@@ -77,3 +77,5 @@
 /Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.pdb
 /Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/Joke App.genruntimeconfig.cache
 /Users/zeinababubakar/Projects/Joke App/Joke App/obj/Debug/net7.0/ref/Joke App.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/MySqlConnector.dll
+/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
