@@ -3,5 +3,11 @@
 
 <div>
     <h3>Jokes</h3>
-    
+    @foreach (var joke in Model)
+{
+          <div>
+              <h3>@joke.JokeAnswer</h3>
+              <h3>@joke.JokeQuestion</h3>
+          </div>
+}
 </div>
