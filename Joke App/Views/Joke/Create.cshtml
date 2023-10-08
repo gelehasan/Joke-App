@@ -1,16 +1,20 @@
-﻿
+﻿@model Joke_App.Models.Joke;
 
-<h1>Edit Joke</h1>
+<form asp-action="addJoke" method="post">
 
-<div class="mb-3">
-    <label class="form-label">Joke Question</label>
-    <input type="text" class="form-control" />
-</div>
+    <h1>Edit Joke</h1>
 
-<div class="mb-3">
-    <label class="form-label">Joke Answer</label>
-    <input type="text" class="form-control" />
-</div>
+    <div class="mb-3">
+        <label class="form-label">Joke Question</label>
+        <input asp-for="JokeQuestion" type="text" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Joke Answer</label>
+        <input asp-for="JokeAnswer" type="text" class="form-control" />
+    </div>
 
 
-<button type="button" class="btn btn-primary"> Save Joke </button>
+    <input type="button" class="btn btn-primary" value="Save Joke"/> 
+
+</form>

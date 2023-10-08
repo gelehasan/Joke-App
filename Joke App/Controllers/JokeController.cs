@@ -29,6 +29,16 @@ namespace Joke_App.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+
+        public IActionResult addJoke(Joke newJoke)
+        {
+            _dbConext.Jokes.Add(newJoke);
+            _dbConext.SaveChanges();
+
+            return View();
+        }
     }
 }
 

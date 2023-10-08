@@ -4,21 +4,28 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Joke App/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Joke App/Views/Joke/Create.cshtml">
     <Files>
-      <File FileName="Joke App/Models/Joke.cs" Line="10" Column="1" />
-      <File FileName="Joke App/appsettings.json" Line="3" Column="72" />
+      <File FileName="Joke App/Models/Joke.cs" Line="14" Column="3" />
+      <File FileName="Joke App/appsettings.json" />
       <File FileName="Joke App/Program.cs" Line="15" Column="1" />
-      <File FileName="Joke App/appsettings.Development.json" Line="10" Column="1" />
+      <File FileName="Joke App/appsettings.Development.json" />
+      <File FileName="Joke App/Data/ApplicationDbContext.cs" Line="17" Column="1" />
+      <File FileName="Joke App/Controllers/JokeController.cs" Line="27" Column="1" />
+      <File FileName="Joke App/Views/Joke/Index.cshtml" Line="5" Column="1" />
+      <File FileName="Joke App/Views/Joke/Create.cshtml" Line="16" Column="57" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Joke App" expanded="True" selected="True">
+          <Node name="Joke App" expanded="True">
             <Node name="Joke App" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Joke" expanded="True" />
+              </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
