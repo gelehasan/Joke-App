@@ -1,7 +1,6 @@
 /Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/appsettings.Development.json
 /Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/appsettings.json
 /Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App.staticwebassets.runtime.json
-/Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/app.db
 /Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App
 /Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App.deps.json
 /Users/zeinababubakar/Projects/Joke App/Joke App/bin/Debug/net7.0/Joke App.runtimeconfig.json

@@ -13,12 +13,13 @@ namespace Joke_App.Controllers
     public class JokeController : Controller
     {
         private readonly ApplicationDbContext _dbConext;
+
         public JokeController(ApplicationDbContext dbContext)
         {
             _dbConext = dbContext;
         }
         // GET: /<controller>/
-        public async Task<ActionResult<List<Joke>>>  Index()
+        public IActionResult Index()
         {
             var Jokes = _dbConext.Jokes.ToList();
 
@@ -32,11 +33,10 @@ namespace Joke_App.Controllers
 
         [HttpPost]
 
-        public IActionResult addJoke(Joke newJoke)
+        public IActionResult Create(Joke newJoke)
         {
             _dbConext.Jokes.Add(newJoke);
             _dbConext.SaveChanges();
-
             return View();
         }
     }
