@@ -1,7 +1,17 @@
-﻿
+﻿@model Joke_App.Models.Joke
+
+<div>
+
+    <form method="post" asp-action="Update">
+        <input type="hidden" asp-for="Id" />
+        <label> Joke Question</label>
+        <input asp-for="JokeQuestion" type="text" />
+
+        <label>Joke Answer</label>
+        <input asp-for="JokeAnswer" type="text"  />
+
+    </form>
+ 
 
 
-<form method="post">
-<label> Joke Question</label>
-
-</form>
+</div>

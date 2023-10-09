@@ -46,7 +46,32 @@ namespace Joke_App.Controllers
             return View(joke);
         }
 
+
       
+
+        public async  Task<IActionResult> Edit (int Id){
+            var selectedJoke =await _dbConext.Jokes.FindAsync(Id);
+
+               return View(selectedJoke);
+
+        }
+
+
+        public  IActionResult Update(int Id, Joke updatedJoke)
+        {
+            if(Id != updatedJoke.Id)
+            {
+                return NotFound();
+            }
+            if (ModelState.IsValid)
+            {
+                _dbConext.Update(updatedJoke);
+                _dbConext.SaveChanges();
+            }
+
+            return RedirectToAction("Index");  
+        }
+
         public async Task<IActionResult> Delete (int Id)
         {
             var selectedJoke = await _dbConext.Jokes.FindAsync(Id);
@@ -61,6 +86,8 @@ namespace Joke_App.Controllers
 
         }
 
+
+       
     }
 }
 

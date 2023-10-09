@@ -1,6 +1,9 @@
-﻿@model Joke_App.Models.Joke;
+﻿@{
+    ViewData["Title"] = "Create Jokes";
+}
+@model Joke_App.Models.Joke;
 
-<form asp-action="Create"> 
+<form asp-action="Create">
 
     <h1>Edit Joke</h1>
 
@@ -15,6 +18,6 @@
     </div>
 
 
-    <input type="submit" class="btn btn-primary" value="Save Joke"/> 
+    <input type="submit" class="btn btn-primary" value="Save Joke" />
 
 </form>

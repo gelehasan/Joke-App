@@ -1,24 +1,27 @@
-﻿@model IEnumerable<Joke_App.Models.Joke>
+﻿@{
+    ViewData["Title"] = "View Jokes";
+}
+@model IEnumerable<Joke_App.Models.Joke>
 
 
 <div>
     <h3>Jokes</h3>
     @foreach (var joke in Model)
-{
-          <div>
-              <div>
-                  <h3>@joke.JokeQuestion</h3>
-              
-              </div>
-              <div>
-                  <button><a asp-action="ViewJoke" asp-route-id="@joke.Id">View</a></button>
-                  <button><a asp-action="Edit">Edit </a></button>
-                  <form asp-action="Delete" asp-route-id="@joke.Id" method="post">
-                      <button type="submit">Delete</button>
-                  </form>
+    {
+        <div>
+            <div>
+                <h3>@joke.JokeQuestion</h3>
 
-                  
-              </div>
-          </div>
-}
+            </div>
+            <div>
+                <button><a asp-action="ViewJoke" asp-route-id="@joke.Id">View</a></button>
+                <button><a asp-action="Edit" asp-route-id="@joke.Id">Edit </a></button>
+                <form asp-action="Delete" asp-route-id="@joke.Id" method="post">
+                    <button type="submit">Delete</button>
+                </form>
+
+
+            </div>
+        </div>
+    }
 </div>
