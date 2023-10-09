@@ -39,6 +39,12 @@ namespace Joke_App.Controllers
             _dbConext.SaveChanges();
             return View();
         }
+
+        public async Task<IActionResult> ViewJoke(int Id)
+        {
+            var joke = await _dbConext.Jokes.FindAsync(Id);
+            return View(joke);
+        }
     }
 }
 
