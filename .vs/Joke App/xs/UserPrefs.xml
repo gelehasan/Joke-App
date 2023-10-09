@@ -6,16 +6,18 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Joke App/Views/Joke/Index.cshtml">
     <Files>
-      <File FileName="Joke App/Models/Joke.cs" Line="15" Column="2" />
+      <File FileName="Joke App/Models/Joke.cs" />
       <File FileName="Joke App/appsettings.json" />
       <File FileName="Joke App/Program.cs" />
       <File FileName="Joke App/appsettings.Development.json" />
       <File FileName="Joke App/Data/ApplicationDbContext.cs" />
-      <File FileName="Joke App/Controllers/JokeController.cs" />
-      <File FileName="Joke App/Views/Joke/Index.cshtml" Line="13" Column="13" />
-      <File FileName="Joke App/Views/Joke/Create.cshtml" Line="17" Column="1" />
-      <File FileName="Joke App/Controllers/HomeController.cs" Line="22" Column="6" />
-      <File FileName="Joke App/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Joke App/Controllers/JokeController.cs" Line="48" Column="6" />
+      <File FileName="Joke App/Views/Joke/Index.cshtml" Line="14" Column="74" />
+      <File FileName="Joke App/Views/Joke/Create.cshtml" Line="20" Column="8" />
+      <File FileName="Joke App/Controllers/HomeController.cs" />
+      <File FileName="Joke App/Views/Home/Privacy.cshtml" />
+      <File FileName="Joke App/Views/Joke/ViewJoke.cshtml" Line="10" Column="7" />
+      <File FileName="Joke App/Migrations/20231008030502_init.cs" Line="10" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

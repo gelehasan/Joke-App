@@ -45,6 +45,21 @@ namespace Joke_App.Controllers
             var joke = await _dbConext.Jokes.FindAsync(Id);
             return View(joke);
         }
+
+        public async Task<IActionResult> Delete (int Id)
+        {
+            var selectedJoke = await _dbConext.Jokes.FindAsync(Id);
+
+            if (selectedJoke != null)
+            {
+                _dbConext.Jokes.Remove(selectedJoke);
+                _dbConext.SaveChanges();
+            }
+            
+            return Ok();
+
+        }
+
     }
 }
 
