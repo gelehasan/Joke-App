@@ -1,4 +1,4 @@
-﻿@{
+@{
     ViewData["Title"] = "View Jokes";
 }
 @model IEnumerable<Joke_App.Models.Joke>
@@ -17,9 +17,6 @@
                 <button><a asp-action="ViewJoke" asp-route-id="@joke.Id">View</a></button>
                 <button><a asp-action="Edit" asp-route-id="@joke.Id">Edit </a></button>
                 <button><a asp-action="Delete" asp-route-id="@joke.Id"> Delete</a> </button>
-                
-
-
             </div>
         </div>
     }
