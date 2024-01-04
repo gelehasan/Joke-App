@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -45,9 +45,6 @@ namespace Joke_App.Controllers
             var joke = await _dbConext.Jokes.FindAsync(Id);
             return View(joke);
         }
-
-
-      
 
         public async  Task<IActionResult> Edit (int Id){
             var selectedJoke =await _dbConext.Jokes.FindAsync(Id);
